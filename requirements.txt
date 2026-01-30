@@ -3,3 +3,4 @@ customtkinter
 GPUtil
 kivy
 kivymd
+numpy
