@@ -1,0 +1,5 @@
+psutil
+customtkinter
+GPUtil
+kivy
+kivymd
